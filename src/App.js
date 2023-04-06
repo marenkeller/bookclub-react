@@ -1,5 +1,5 @@
 import "./App.css";
-import Navigator from "./navigator";
+import Navigator from "./Navigator";
 
 function App() {
   return (
